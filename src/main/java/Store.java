@@ -26,6 +26,7 @@ public class Store {
         }
     }
 
+
     public void restock(ArrayList products){
         for(int index = 0; index <= 20; index++){
             if(products.size() < 20){
